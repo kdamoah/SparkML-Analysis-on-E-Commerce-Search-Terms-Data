@@ -17,4 +17,4 @@ The IBM Data Engineering Professional Certificate is geared towards developing j
 - Design, deploy, and manage an end-to-end data engineering platform
 
 ### Project in Repository
-An example of such a project was to perform SparkML analysis on the search terms data from an e-commerce web server by first loading a pretrained sales forecast model and predict sales for the year 2023 in Python.
+An example of such a project was to perform SparkML analysis on the search terms data from an e-commerce web server by first loading a pretrained sales forecast model and predicting sales for the year 2023 in Python.
